@@ -83,10 +83,11 @@ Run backend:
 npm start
 
 3️⃣ Frontend Setup
+
 cd ../client
 npm install
-npm run dev   # for Vite
-# OR
+npm run dev   # for Vite  
+or
 npm start     # for CRA
 
 
