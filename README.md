@@ -38,11 +38,7 @@ dotenv (environment variable management)
 
 Nodemailer (for email support, optional)
 
-Deployment:
 
-Frontend → Netlify / Vercel
-
-Backend → Render / Railway / Heroku
 
 **📂 Project Structure**
 
@@ -91,11 +87,6 @@ npm run dev   # for Vite
 # OR
 npm start     # for CRA
 
-**🌐 Deployment**
-
-Backend → Deploy on Render or Railway
-
-Frontend → Deploy on Netlify or Vercel
 
 ⚠️ In frontend code, replace API URL:
 
