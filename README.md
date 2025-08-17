@@ -1,4 +1,5 @@
 ****📝 AI Meeting Summarizer****
+
 📌 Overview
 
 AI Meeting Summarizer is a full-stack web application that takes meeting transcripts as input and generates structured summaries using OpenAI’s GPT models.
