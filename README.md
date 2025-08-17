@@ -59,6 +59,7 @@ ai-meeting-summarizer/
 │── README.md           # Project Documentation  
 
 **⚙️ Setup Instructions**
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/ai-meeting-summarizer.git
 cd ai-meeting-summarizer
